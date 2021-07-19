@@ -1,0 +1,4 @@
+Options -Indexes
+<Files ".ht*">
+    deny from all
+</Files>
