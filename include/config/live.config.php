@@ -8,7 +8,7 @@ $url = "http://www.poapriceuganda.com/";
 //database constants online
 const DB_HOST = 'localhost';
 const DB_USER = 'ppu_user';
-const DB_PASS = 'CSL.DB.server';
+const DB_PASS = 'xxxxxxxxxxx';
 const DB_NAME = 'ppu_db';
 
 //APP DIRECTORY CONFIGURATION
